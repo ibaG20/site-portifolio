@@ -1,6 +1,6 @@
 # ✨Portifolio✨
 
- - Portifolio desenvolvido com HTML, CSS, JS utilizando também o Bootstrap
+ - Portifolio desenvolvido com HTML, CSS, JS utilizando também o Bootstrap  
  https://portifolio-gabriella.netlify.app/
  
  ![image](https://user-images.githubusercontent.com/98984386/206812059-e5e0a9ed-b58f-4d65-9cb1-1c3796f36af3.png)
