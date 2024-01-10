@@ -3,9 +3,9 @@
  - Portifolio desenvolvido com HTML, CSS, JS utilizando também o Bootstrap  
  https://portifolio-gabriella.netlify.app/
  
- ![image](https://user-images.githubusercontent.com/98984386/206812059-e5e0a9ed-b58f-4d65-9cb1-1c3796f36af3.png)
- ![image](https://user-images.githubusercontent.com/98984386/206812154-2bbd53f3-c9f3-432e-b959-277eb0eeda44.png)
- ![image](https://user-images.githubusercontent.com/98984386/206812191-0d0d2f5e-86fb-4742-8faa-a5efd464b7f0.png)
- ![image](https://user-images.githubusercontent.com/98984386/206812238-e94532f8-e4d0-4e82-82cd-d99fcce163b6.png)
- ![image](https://user-images.githubusercontent.com/98984386/206812274-886d970d-5809-44c5-a8d4-ee98e7cb6c93.png)
+![image](https://github.com/ibaG20/site-portifolio/assets/98984386/0d89ee34-0543-4763-901f-bfbe5bfe0ea1)
+![image](https://github.com/ibaG20/site-portifolio/assets/98984386/0d735c20-b4b9-437e-92d7-6ad14a3a3a2e)
+![image](https://github.com/ibaG20/site-portifolio/assets/98984386/96d270fc-b078-451f-a3cf-87097f472e24)
+![image](https://github.com/ibaG20/site-portifolio/assets/98984386/a199eb3c-3bc0-4f70-9714-13f3adc18733)
+![image](https://github.com/ibaG20/site-portifolio/assets/98984386/8b4190e1-c657-4250-9885-d02e4055f1a6)
 
